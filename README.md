@@ -31,8 +31,8 @@ Questa repository raccoglie tutti gli script utilizzati, la documentazione del p
 | Versione | Data | Note |
 |---|---|---|
 | 1.0.0 | 04/07/2026 | Prima pubblicazione della patch ITA |
-| 2.0.0 | in arrivo (settembre/ottobre 2026) | Revisione totale di dialoghi, e-mail e tips |
-| X.X.X | entro la fine del 2026 | Traduzioni OP/ED, CG tradotte |
+| 2.0.0 | In arrivo (novembre 2026) | Revisione totale di dialoghi, e-mail e tips |
+| X.X.X | Entro la fine del 2026 / gennaio 2027 | Traduzioni OP/ED, CG tradotte |
 
 Changelog dettagliato in [CHANGELOG.md](CHANGELOG.md).
 
