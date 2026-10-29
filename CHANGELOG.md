@@ -2,7 +2,7 @@
 
 Tutte le modifiche rilevanti alla patch ITA sono elencate qui, con la data di pubblicazione corrispondente sulla guida Steam.
 
-## [2.0.0] - in arrivo (settembre/ottobre 2026)
+## [2.0.0] - in arrivo (novembre 2026)
 
 In lavorazione:
 
